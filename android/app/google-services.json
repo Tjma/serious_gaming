@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "249230532156",
+    "firebase_url": "https://flutterstore-c6895.firebaseio.com",
+    "project_id": "flutterstore-c6895",
+    "storage_bucket": "flutterstore-c6895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249230532156:android:0faf99919180ffe1",
+        "android_client_info": {
+          "package_name": "com.example.serious_gaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249230532156-cvh5patm6m74i5b4eqeb90hhn1ge3jrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZYiXB4MqP40ex0rGy8GDhHoBLrh0dxOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249230532156-cvh5patm6m74i5b4eqeb90hhn1ge3jrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
